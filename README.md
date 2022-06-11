@@ -3,5 +3,5 @@
 -Geremias Zalokar
 -Aaron Arias
 -Micaela Vizcarra
--Mariano Garzon Sergio
+-Mariano Garzon Sergio edad: 30 San Miguel Buenos Aires
 -Lucas Amaya
