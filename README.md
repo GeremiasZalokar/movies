@@ -4,4 +4,4 @@
 -Aaron Arias /26 / neuquen
 -Micaela Vizcarra
 -Mariano Garzon Sergio edad: 30 San Miguel Buenos Aires
--Lucas Amaya
+-Lucas Amaya edad: 24 san Miguel Buenos Aires
